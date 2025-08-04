@@ -49,7 +49,7 @@ The individual raw tiles of the .czi files can be extracted to improve denoising
 
 **File to run:**
 ```
-extract_piles.py
+extract_tiles.py
 ```
 Each tile is saved as a TIFF. 
 
